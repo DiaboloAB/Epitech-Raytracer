@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -O3 -DNDEBUG -shared -Wl,-soname,pointLight.so -o pointLight.so CMakeFiles/pointLight.dir/src/pointLight.cpp.o   -L/home/diabolo/delivery/Raytracer/plugins/lights/pointLight/{PROJECT_SOURCE_DIR}/libs/rtx  -Wl,-rpath,/home/diabolo/delivery/Raytracer/plugins/lights/pointLight/{PROJECT_SOURCE_DIR}/libs/rtx ../../../libs/rtx/rtxlib.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -O3 -DNDEBUG -shared -Wl,-soname,solidColor.so -o solidColor.so CMakeFiles/solidColor.dir/src/solidColor.cpp.o   -L/home/diabolo/delivery/Raytracer/plugins/textures/solidColor/{PROJECT_SOURCE_DIR}/libs/rtx  -Wl,-rpath,/home/diabolo/delivery/Raytracer/plugins/textures/solidColor/{PROJECT_SOURCE_DIR}/libs/rtx ../../../libs/rtx/rtxlib.a 
