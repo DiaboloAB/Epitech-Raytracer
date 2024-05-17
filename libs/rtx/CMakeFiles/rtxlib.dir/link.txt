@@ -1,2 +1,0 @@
-/usr/bin/ar qc rtxlib.a CMakeFiles/rtxlib.dir/src/color/color.cpp.o CMakeFiles/rtxlib.dir/src/color/screen.cpp.o CMakeFiles/rtxlib.dir/src/ray/ray.cpp.o CMakeFiles/rtxlib.dir/src/vec3/vec3.cpp.o
-/usr/bin/ranlib rtxlib.a

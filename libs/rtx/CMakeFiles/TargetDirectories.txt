@@ -1,3 +1,0 @@
-/home/diabolo/delivery/Raytracer/libs/rtx/CMakeFiles/rtxlib.dir
-/home/diabolo/delivery/Raytracer/libs/rtx/CMakeFiles/edit_cache.dir
-/home/diabolo/delivery/Raytracer/libs/rtx/CMakeFiles/rebuild_cache.dir
