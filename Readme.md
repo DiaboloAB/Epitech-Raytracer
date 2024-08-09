@@ -2,6 +2,8 @@
 
 Your CPU goes brrrrr!
 
+![preview](assets/readme/image.png)
+
 ## Description
 This repository contains the source code for the Raytracer project at Epitech, a 3D rendering software that simulates the path of light to generate realistic images. It utilizes advanced rendering techniques such as ray tracing, material modeling, shadows, reflections, and refractions to produce high-quality renders.
 
